@@ -644,7 +644,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me. Have any project in mind? Say Hello at:.",
+      "I am available on almost every social media. Have any project in mind? Say Hello at:.",
   },
   blogSection: {
     title: "Github",

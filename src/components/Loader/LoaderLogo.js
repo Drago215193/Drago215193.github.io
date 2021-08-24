@@ -248,10 +248,10 @@ class LogoLoader extends React.Component {
 		.signature{
 			stroke-dasharray: 800;
 			stroke-dashoffset: 800;
-			-webkit-animation: dash 6s linear forwards 0.5s;
-			-o-animation: dash 6s linear forwards 0.5s;
-			-moz-animation: dash 6s linear forwards 0.5s;
-			animation: dash 6s linear forwards 0.5s;
+			-webkit-animation: dash 3s linear forwards 0.5s;
+			-o-animation: dash 3s linear forwards 0.5s;
+			-moz-animation: dash 3s linear forwards 0.5s;
+			animation: dash 3s linear forwards 0.5s;
 		}
 
 		.letter{
@@ -274,10 +274,10 @@ class LogoLoader extends React.Component {
       .myHexagon{
 			stroke-dasharray: 800;
 			stroke-dashoffset: 800;
-			-webkit-animation: dash 4s linear forwards 0.5s;
-			-o-animation: dash 4s linear forwards 0.5s;
-			-moz-animation: dash 4s linear forwards 0.5s;
-			animation: dash 4s linear forwards 0.5s;
+			-webkit-animation: dash 3s linear forwards 0.5s;
+			-o-animation: dash 3s linear forwards 0.5s;
+			-moz-animation: dash 3s linear forwards 0.5s;
+			animation: dash 3s linear forwards 0.5s;
 		}
 
 		@-webkit-keyframes dash{
