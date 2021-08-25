@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5dd327e1539b1c718bdca9851dbbadd7",
+    "revision": "567c2ca745fb1e507b1f264819883434",
     "url": "./index.html"
   },
   {
-    "revision": "410ac260aa6b1617f297",
+    "revision": "9f143b851e5ae5d22446",
     "url": "./static/css/main.603f8a9f.chunk.css"
   },
   {
-    "revision": "d33fce58fe217e27b086",
-    "url": "./static/js/2.f76fab9a.chunk.js"
+    "revision": "57c2d4361f547c6e17b2",
+    "url": "./static/js/2.4c188796.chunk.js"
   },
   {
-    "revision": "410ac260aa6b1617f297",
-    "url": "./static/js/main.d7aa9f96.chunk.js"
+    "revision": "9f143b851e5ae5d22446",
+    "url": "./static/js/main.3baf50b5.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
     "url": "./static/js/runtime-main.fff6ee50.js"
+  },
+  {
+    "revision": "17125c371e8b39460471ff1324987e01",
+    "url": "./static/media/AAKRITI-2020.17125c37.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "f887995c7516d490058f001614521aa5",
+    "url": "./static/media/Steel_Authority_of_India_logo.f887995c.jpg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -282,5 +290,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0bb08eb872cfdd0f8c14fb642c57f5e1",
     "url": "./static/media/uom_logo.0bb08eb8.png"
+  },
+  {
+    "revision": "77b4fafeda43b3c224e0759dd5d2db25",
+    "url": "./static/media/whjr-removebg-preview.77b4fafe.png"
   }
 ]);

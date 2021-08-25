@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.603f8a9f.chunk.css",
-    "main.js": "./static/js/main.d7aa9f96.chunk.js",
-    "main.js.map": "./static/js/main.d7aa9f96.chunk.js.map",
+    "main.js": "./static/js/main.3baf50b5.chunk.js",
+    "main.js.map": "./static/js/main.3baf50b5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.f76fab9a.chunk.js": "./static/js/2.f76fab9a.chunk.js",
-    "static/js/2.f76fab9a.chunk.js.map": "./static/js/2.f76fab9a.chunk.js.map",
+    "static/js/2.4c188796.chunk.js": "./static/js/2.4c188796.chunk.js",
+    "static/js/2.4c188796.chunk.js.map": "./static/js/2.4c188796.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.4645de382b6075a537aa74c6c3a8c3bd.js": "./precache-manifest.4645de382b6075a537aa74c6c3a8c3bd.js",
+    "precache-manifest.83f0c76c3704a15cb43088ab811ee8cd.js": "./precache-manifest.83f0c76c3704a15cb43088ab811ee8cd.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.603f8a9f.chunk.css.map": "./static/css/main.603f8a9f.chunk.css.map",
+    "static/media/AAKRITI-2020.png": "./static/media/AAKRITI-2020.17125c37.png",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Steel_Authority_of_India_logo.jpg": "./static/media/Steel_Authority_of_India_logo.f887995c.jpg",
     "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.19dbe19f.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.52e0714e.svg",
@@ -55,12 +57,13 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.b48e86c9.svg",
     "static/media/udemy_logo.png": "./static/media/udemy_logo.0d8fc272.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.67a6a11c.svg",
-    "static/media/uom_logo.png": "./static/media/uom_logo.0bb08eb8.png"
+    "static/media/uom_logo.png": "./static/media/uom_logo.0bb08eb8.png",
+    "static/media/whjr-removebg-preview.png": "./static/media/whjr-removebg-preview.77b4fafe.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.f76fab9a.chunk.js",
+    "static/js/2.4c188796.chunk.js",
     "static/css/main.603f8a9f.chunk.css",
-    "static/js/main.d7aa9f96.chunk.js"
+    "static/js/main.3baf50b5.chunk.js"
   ]
 }
