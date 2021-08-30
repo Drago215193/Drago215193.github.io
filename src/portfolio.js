@@ -565,7 +565,7 @@ const experience = {
           duration: "March 2020 - May 2020",
           location: "Work From Home",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people.",
           color: "#000000",
         },
       ],
