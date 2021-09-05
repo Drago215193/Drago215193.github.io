@@ -54,7 +54,7 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/profile.php?id=100008059756038/",
+    link: "https://www.facebook.com/drago215193/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
