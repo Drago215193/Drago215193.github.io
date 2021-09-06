@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Gmail",
-    link: "mailto:ankityadav215193@gmail.com",
+    link: "mailto:drago215193@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -587,7 +587,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "Have any project in mind? Say Hello at:.",
+      "Feel free to drop an email if you have any project or any oppurtunity in mind or just want to chat! Say Hello at:.",
   },
   blogSection: {
     title: "LinkedIn",
