@@ -1,1 +1,3 @@
-{"data":[{"login":"python","avatarUrl":"https://www.vectorlogo.zone/logos/python/python-vertical.svg","__typename":"Organization"},{"login":"Microsoft Learn","avatarUrl":"https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg","__typename":"Organization"},{"login":"LinkedIn Learning","avatarUrl":"https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg","__typename":"Organization"},{"login":"google","avatarUrl":"https://www.vectorlogo.zone/logos/google/google-icon.svg","__typename":"Organization"},{"login":"Qwiklabs","avatarUrl":"https://www.qwiklabs.com/qwiklabs_logo_900x887.png","__typename":"Organization"},{"login":"Coursera","avatarUrl":"https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg","__typename":"Organization"},{"login":"Udemy","avatarUrl":"https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg","__typename":"Organization"}]}
+{
+  "data": []
+}

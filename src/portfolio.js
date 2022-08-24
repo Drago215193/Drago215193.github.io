@@ -1,5 +1,5 @@
 const settings = {
-  isSplash: true, 
+  isSplash: true,
 };
 
 const seo = {
@@ -19,14 +19,13 @@ const greeting = {
   logo_name: "AnkitYadav",
   nickname: "Drago",
   subTitle:
-    "A self-motivated and hard worker Engineer with a great passion for programming and coding. I am a creative front end developer who like making beautiful and smart things through coding.",
+    "A self-motivated and hard worker Engineer with a great passion for programming and coding. I am a creative front end developer and software engineer who like making beautiful and smart things through coding.",
   resumeLink:
     "https://drive.google.com/file/d/1BcoWO0rqIa9RHR29lJuuZcf_p3AwFouW/view?usp=drivesdk",
   portfolio_repository: "https://github.com/Drago215193/Drago215193.github.io",
 };
 
 const socialMediaLinks = [
-  
   {
     name: "Github",
     link: "https://github.com/Drago215193",
@@ -107,6 +106,14 @@ const skills = {
           },
         },
         {
+          skillName: "Java Server Pages",
+          fontAwesomeClassname: "simple-icons:java",
+          style: {
+            backgroundColor: "transparent",
+            color: "#00000",
+          },
+        },
+        {
           skillName: "JQuery",
           fontAwesomeClassname: "simple-icons:jquery",
           style: {
@@ -138,7 +145,7 @@ const skills = {
             color: "#211F1F",
           },
         },
-        
+
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -160,7 +167,6 @@ const skills = {
             color: "#CB3837",
           },
         },
-        
       ],
     },
     {
@@ -227,14 +233,19 @@ const skills = {
           },
         },
         {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#00758F",
+          },
+        },
+        {
           skillName: "GCP",
           fontAwesomeClassname: "simple-icons:googlecloud",
           style: {
             color: "#4285F4",
           },
         },
-
-        
       ],
     },
     {
@@ -288,16 +299,18 @@ const competitiveSites = {
       style: {
         color: "#FCD12A",
       },
-      profileLink: "https://google.qwiklabs.com/public_profiles/f5e6d474-8889-498e-9162-5f969579ddb7",
+      profileLink:
+        "https://google.qwiklabs.com/public_profiles/f5e6d474-8889-498e-9162-5f969579ddb7",
     },
     {
       siteName: "Microsoft-Learn",
       iconifyClassname: "simple-icons:microsoft",
       style: {
         color: "#00a2ed",
-        backgroundColor: "white"
+        backgroundColor: "white",
       },
-    profileLink: "https://docs.microsoft.com/en-us/users/ankityadav-4638/achievements",
+      profileLink:
+        "https://docs.microsoft.com/en-us/users/ankityadav-4638/achievements",
     },
     {
       siteName: "Coursera",
@@ -310,7 +323,7 @@ const competitiveSites = {
       siteName: "Udemy",
       iconifyClassname: "simple-icons:udemy",
       style: {
-        color: "black", 
+        color: "black",
       },
     },
     {
@@ -330,11 +343,11 @@ const degrees = {
       subtitle: "B.Tech. in Computer Science Engineering",
       logo_path: "r1.png",
       alt_name: "RCET BHILAI",
-      duration: "2018 - Present",
+      duration: "2018 - 2022",
       descriptions: [
-        "⚡ I have studied Bachelor of Technology In Computer Science and Engineering.",
-        "⚡ Also have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, CG etc.",
-        "⚡ Apart from this, I have done courses on Full Stack Development, Basic Data Science and Basic Cloud Computing.",
+        "⚡ I have successfully completed Bachelor of Technology In Computer Science and Engineering.",
+        "⚡ Also have studied basic software engineering subjects like DS, Algorithms, DBMS, Operating System, CA, CG, Artificial Intelligence etc.",
+        "⚡ Apart from this, I have done courses on Full Stack web Development, Full Stack Java programming, Basic Data Science and Basic Cloud Computing.",
       ],
       website_link: "https://www.rungta.ac.in/",
     },
@@ -346,6 +359,7 @@ const degrees = {
       duration: "2017 - 2018",
       descriptions: [
         "⚡ I have studied Physics Chemistry Maths with Computer Science in 12th",
+        "⚡ Where they teach us Python in Computer Science",
         "⚡ Apart from this, I have done courses on Basic Python Programming.",
       ],
       website_link: "http://www.ssvbhilai.edu.in/",
@@ -358,6 +372,7 @@ const degrees = {
       duration: "2015 - 2016",
       descriptions: [
         "⚡ I have studied CBSE affiliation Class 10th.",
+        "⚡ I have studied general subjects affilliated by CBSE.",
         "⚡ Apart from this, I have studied HTML, Basic CSS, JavaScript.",
       ],
       website_link: "https://ahmedabadcantt.kvs.ac.in/",
@@ -417,8 +432,7 @@ const certifications = {
       title: "JavaScript",
       subtitle: "- HackerRank",
       logo_path: "hackerrank_logo.png",
-      certificate_link:
-        "https://www.hackerrank.com/certificates/8fec7ddf31fb",
+      certificate_link: "https://www.hackerrank.com/certificates/8fec7ddf31fb",
       alt_name: "javaScript",
       color_code: "black",
     },
@@ -441,7 +455,7 @@ const certifications = {
       alt_name: "Linkedin",
       color_code: "white",
     },
-    
+
     {
       title: "Google Cloud Training",
       subtitle: "- Qwiklabs",
@@ -464,8 +478,7 @@ const certifications = {
       title: "Python",
       subtitle: "- HackerRank",
       logo_path: "hackerrank_logo.png",
-      certificate_link:
-        "https://www.hackerrank.com/certificates/8d649feea167",
+      certificate_link: "https://www.hackerrank.com/certificates/8d649feea167",
       alt_name: "Python",
       color_code: "black",
     },
@@ -486,39 +499,23 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many organizations as front-end developer and Full-Stack Developer, Designer and Software Architect. I have also done some internship with some well established companies. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Front End Development Intern",
-          company: "Student Point",
-          logo_path: "sp_logo.png",
-          duration: "May 2021 - July 2021",
-          location: "Work From Home",
-          description:
-            "I have worked on project of Education website. It Consist Of Video management system for classes, Doubt section and Private chat box, To build a easy to interact, easy to use platform which is Student friendly and can be accessed by student without any difficulties, it consist of video lectures for students depending on their respective classes and subjects, with a mode switch toggle to switch between dark and light mode.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Intern",
-          company: "WhiteHat Jr.",
-          company_url:
-            "https://www.whitehatjr.com/",
-          logo_path: "whjr-removebg-preview.png",
-          duration: "July 2021 - July 2021",
-          location: "Work From Home",
-          description:
-            "This is an Education Company. It provides Live online teaching classes to students. I have made some front-end designs for them. But unfortunately was not able to complete my internship period due to circumstances.",
-          color: "#0071C5",
-        },
-      ],
-    },
-    {
       title: "Work",
       experiences: [
+        {
+          title: "Project Engineer",
+          company: "Wipro Technologies",
+          company_url: "https://www.wipro.com/",
+          logo_path: "Wipro-logo.png",
+          duration: "June 2022 - Present",
+          location: "Hyderabad, Telangana",
+          description:
+            "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services. After a successful internship, I decided to initiated my career with a multi national company such as wipro which offers a wide range of oppurtunities for my career and opens a path for a bigger and greater future.",
+          color: "#0879bf",
+        },
         {
           title: "Vacational Trainee",
           company: "SAIL Bhilai Steel Plant",
@@ -527,8 +524,55 @@ const experience = {
           duration: "December 2020 - January 2021",
           location: "Bhilai, Chhattisgarh",
           description:
-            "I have designed a new Login/Signup Page & Homepage for the Computer and Network Department. And Designed an online Web event calender for the employees which shows upcoming events and holidays and can be used as a diary.",
+            "The Bhilai Steel Plant, located in Bhilai, Chhattisgarh, is India's first and main producer of steel rails, as well as a major producer of wide steel plates and other steel products. Where I have completed a two month Vacational training in which I have designed a new Login/Signup Page & Homepage for the Computer and Network Department. And Designed an online Web event calender for the employees which shows upcoming events and holidays and can be used as a diary.",
           color: "#0879bf",
+        },
+      ],
+    },
+
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Intern",
+          company: "Wipro Technologies",
+          logo_path: "Wipro-logo.png",
+          duration: "March 2022 - May 2022",
+          location: "Work From Home",
+          description:
+            "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services. It offered a three month internship where we learned Data Analytics and Artificial Intelligence Information Management and worked on a project where they asked us to create a responsive webpage showing data from different areas of the country affected due to covid-19 panedemic, using API and other functions. And after successfull completion of internship and project they provide us a Internship Completion Certificate.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Java Full Stack Developer",
+          company: "3i-Infotech",
+          logo_path: "3i_infotech.png",
+          duration: " January 2022 - March 2022",
+          location: "Work From Home",
+          description:
+            "3i Infotech Ltd is an Indian IT company, incorporated in 1993. 3i Infotech was a wholly owned subsidiary of ICICI/ICICI Bank until ICICI divested the majority of the shares in March 2002, at which point the company ceased to be a subsidiary of ICICI. It offered a 3 month internship where they asked us to use Java, Java Server Page and PostgreSQL to create a minor atm program and webpage which consist user authentication, and other functionalities. After successful completion they provide us with Internship Completion Certificate and Pre-Placement Offer.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Front End Development Intern",
+          company: "Student Point",
+          logo_path: "sp_logo.png",
+          duration: "May 2021 - July 2021",
+          location: "Work From Home",
+          description:
+            "It was a two month internship where they hired intern to create the front-end of an educational website they were working on. It Consist Of Video management system for classes, Doubt section and Private chat box, To build a easy to interact, easy to use platform which is Student friendly and can be accessed by student without any difficulties, it consist of video lectures for students depending on their respective classes and subjects, with a mode switch toggle to switch between dark and light mode.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Intern",
+          company: "WhiteHat Jr.",
+          company_url: "https://www.whitehatjr.com/",
+          logo_path: "whjr-removebg-preview.png",
+          duration: "July 2021 - July 2021",
+          location: "Work From Home",
+          description:
+            "This is an Education Company. It provides Live online teaching classes to students. I have made some front-end designs for them. But unfortunately was not able to complete my internship period due to circumstances.",
+          color: "#0071C5",
         },
       ],
     },
@@ -591,15 +635,13 @@ const contactPageData = {
   },
   blogSection: {
     title: "LinkedIn",
-    subtitle:
-      "Visit My LinkedIn Profile",
+    subtitle: "Visit My LinkedIn Profile",
     link: "https://www.linkedin.com/in/ankit-yadav-1682b01bb/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Sector-05, Bhilai, Dist.-Durg, Chhattisgarh - 490006",
+    subtitle: "Sector-05, Bhilai, Dist.-Durg, Chhattisgarh - 490006",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/tFjWiFss8WytwJvK8",
   },

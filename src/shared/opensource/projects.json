@@ -1,1 +1,116 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkzOTk1NDM2MjM=","name":"Drago215193.github.io","createdAt":"2021-08-24T17:02:35Z","url":"https://github.com/Drago215193/Drago215193.github.io","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkzODkyOTExNTQ=","name":"Portfolio","createdAt":"2021-07-25T07:45:48Z","url":"https://github.com/Drago215193/Portfolio","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"MDEwOlJlcG9zaXRvcnkzOTkwMDI5Mzk=","name":"CARD_template_with_DARK_and_LIGHT_mode","createdAt":"2021-08-23T06:54:52Z","url":"https://github.com/Drago215193/CARD_template_with_DARK_and_LIGHT_mode","description":null,"isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkzNjcwNTcyNTQ=","name":"student-point-sample","createdAt":"2021-05-13T13:27:34Z","url":"https://github.com/Drago215193/student-point-sample","description":null,"isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkzNzg2NDgyMTM=","name":"Microsoft-Teams","createdAt":"2021-06-20T13:09:20Z","url":"https://github.com/nikhilkotiya/Microsoft-Teams","description":null,"isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTk1NDM2MjM=",
+      "name": "Drago215193.github.io",
+      "createdAt": "2021-08-24T17:02:35Z",
+      "url": "https://github.com/Drago215193/Drago215193.github.io",
+      "description": "My Complete Software Developer Portfolio which showcases all the work and each and every detail about me as a Software Developer including my education, experience, projects, resume, and contact details.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzODkyOTExNTQ=",
+      "name": "Portfolio",
+      "createdAt": "2021-07-25T07:45:48Z",
+      "url": "https://github.com/Drago215193/Portfolio",
+      "description": "A simple and minor project consisting my first portfolio created using html5, css3 and javascript, with my projects and links.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDIwNDIzMzM=",
+      "name": "FitGym_HomePage",
+      "createdAt": "2021-09-01T11:52:35Z",
+      "url": "https://github.com/Drago215193/FitGym_HomePage",
+      "description": "A simple static webpage consisting details of a gym asked to be created similar to a design provided, consist of basic animations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDQwNDg5Mjg=",
+      "name": "tindog",
+      "createdAt": "2021-09-07T16:30:26Z",
+      "url": "https://github.com/Drago215193/tindog",
+      "description": "A simple website made using HTML, CSS and Bootstrap v4.5.3 as a part of The Complete 2021 Web Development Bootcamp by Angela Yu on Udemy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDgwNTQ2ODA=",
+      "name": "Voice_Assistant_RIO",
+      "createdAt": "2021-09-19T06:51:51Z",
+      "url": "https://github.com/Drago215193/Voice_Assistant_RIO",
+      "description": "An AI virtual voice assistant for windows created using python3.8, and can be used to perform many system functionalities just by giving instructions through voice which includes system fuctions and online functions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDY4MzM4MzU=",
+      "name": "Simple_scroll_parallax",
+      "createdAt": "2021-09-15T15:54:05Z",
+      "url": "https://github.com/Drago215193/Simple_scroll_parallax",
+      "description": "A simple website made using HTML, and CSS as a part of practice it consist of a scroll parallax which looks attractive and unique.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
