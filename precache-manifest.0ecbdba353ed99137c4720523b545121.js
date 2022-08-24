@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf87d7ba965aad5e90867ebbbd40bcb3",
+    "revision": "7effc94d0415033bce7e50bc52df3701",
     "url": "./index.html"
   },
   {
-    "revision": "9a3611c1f0c245811678",
-    "url": "./static/css/main.aca44054.chunk.css"
+    "revision": "fa1569c8cefa6714f255",
+    "url": "./static/css/main.7bb52b98.chunk.css"
   },
   {
-    "revision": "514342d2bf3050df7df3",
-    "url": "./static/js/2.78a0e5e8.chunk.js"
+    "revision": "40cf295bc38509e8ea5d",
+    "url": "./static/js/2.10275d39.chunk.js"
   },
   {
-    "revision": "9a3611c1f0c245811678",
-    "url": "./static/js/main.db6bb19b.chunk.js"
+    "revision": "fa1569c8cefa6714f255",
+    "url": "./static/js/main.5ac57bd6.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
     "url": "./static/js/runtime-main.fff6ee50.js"
+  },
+  {
+    "revision": "9a4f9f311d22fd8c6aa6ecb41ce1e1fc",
+    "url": "./static/media/3i_infotech.9a4f9f31.png"
   },
   {
     "revision": "17125c371e8b39460471ff1324987e01",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f887995c7516d490058f001614521aa5",
     "url": "./static/media/Steel_Authority_of_India_logo.f887995c.jpg"
+  },
+  {
+    "revision": "a464f2ea93cc4b3ec8b124dbb98b3b76",
+    "url": "./static/media/Wipro-logo.a464f2ea.png"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
